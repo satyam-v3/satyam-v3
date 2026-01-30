@@ -19,9 +19,9 @@ I'm a passionate developer who enjoys building practical projects and learning m
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam-v3&show_icons=true&theme=dracula&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-one-gold-46.vercel.app/api?username=satyam-v3&show_icons=true&theme=dracula&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-v3&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats-one-gold-46.vercel.app/api/top-langs/?username=satyam-v3&layout=compact&theme=dracula)
 
 </div>
 
