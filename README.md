@@ -1,4 +1,3 @@
-
 ---
 # Hi 👋, I'm Satyam Kumar
 
@@ -14,16 +13,6 @@ I'm a passionate developer who enjoys building practical projects and learning m
 * 🧠 Exploring **Generative AI & OpenAI APIs**
 * 🌐 Learning **HTML, CSS, JavaScript** and backend frameworks
 * 🎯 Goal: Build impactful products & crack tech roles
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-one-gold-46.vercel.app/api?username=satyam-v3&show_icons=true&theme=dracula&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats-one-gold-46.vercel.app/api/top-langs/?username=satyam-v3&layout=compact&theme=dracula)
-
-</div>
 
 ---
 
