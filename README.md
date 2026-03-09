@@ -27,7 +27,7 @@ I'm a passionate developer who enjoys building practical projects and learning m
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyam-kumar-b77773367/" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-k-r/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
