@@ -24,14 +24,6 @@ I'm a passionate developer who enjoys building practical projects and learning m
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyam-v3/satyam-v3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyam-v3/satyam-v3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/satyam-v3/satyam-v3/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## 🤝 Let’s Connect
 
 <p align="center">
