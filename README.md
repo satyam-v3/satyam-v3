@@ -4,7 +4,6 @@
 🎓 Aspiring Software Developer | 🤖 Generative AI Enthusiast | 💻 Full‑Stack Developer
 
 ---
-
 ## 🚀 About Me
 
 I'm a passionate developer who enjoys building practical projects and learning modern technologies step by step. I’m currently focusing on **Data Structures & Algorithms**, **Web Development**, and **Generative AI**, with the goal of becoming a strong full‑stack / AI‑enabled developer.
@@ -50,6 +49,7 @@ I'm a passionate developer who enjoys building practical projects and learning m
 </picture>
 
 ---
+
 ⭐ If you like my work, consider giving a star to my repositories!
 
 ---
