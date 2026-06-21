@@ -19,7 +19,7 @@ I'm a passionate developer who enjoys building practical projects and learning m
 ### 🚀 Featured Projects
 
 * **[InfraMind](https://github.com/satyam-v3/InfraMind_Frontend)** - A modern, high-performance web interface built with Vite and Tailwind.
-* **[EduGenie](https://github.com/satyam-v3/EduGenie)** - An AI-powered educational content creator utilizing generative AI.
+* **[Thinksy](https://github.com/satyam-v3/Thinksy)** - A full-stack AI-powered PDF learning platform featuring Retrieval-Augmented Generation (RAG), semantic search, source-cited conversations, flashcard generation, quizzes, and real-time streaming responses.
 
 ---
 
