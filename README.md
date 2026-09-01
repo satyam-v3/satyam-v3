@@ -55,7 +55,7 @@ I am a software developer focused on engineering reliable, full-stack systems an
 
 ---
 
-### 2. [StudyNotion — Full-Stack EdTech Platform](https://github.com/satyam-v3)
+### 2. [StudyNotion — Full-Stack EdTech Platform](https://github.com/satyam-v3/StudyNotion)
 > *A modular online education platform built for scalable course creation, media management, and student learning workflows.*
 
 * **Modular Backend Architecture**: Designed a clean Node.js/Express REST API utilizing MVC patterns, JWT-based authentication, and granular Role-Based Access Control (Student, Instructor, Admin).
@@ -63,24 +63,6 @@ I am a software developer focused on engineering reliable, full-stack systems an
 * **Data Modeling**: Built scalable MongoDB schemas with Mongoose for nested course structures, progress tracking, and category relationships.
 * **Interactive UI**: Engineered a modern React client with Redux Toolkit for state management and Tailwind CSS for responsive styling.
 * **Tech Stack**: `React` &middot; `Redux Toolkit` &middot; `Node.js` &middot; `Express.js` &middot; `MongoDB Atlas` &middot; `Tailwind CSS` &middot; `REST APIs` &middot; `Cloudinary`
-
----
-
-### 3. SIFT — Human-in-the-Loop Data & Annotation Governance Pipeline
-> *A structured human-in-the-loop framework designed for dataset curation, verification, and auditability in supervised fine-tuning workflows.*
-
-```text
-[Source Registration & Provenance] ➔ [Double-Blind Human Annotation] ➔ [Agreement Auditing]
-                                                                               │
-[Release-Gate Verification] 🠔 [Curated Dataset] 🠔 [Expert Adjudication (if delta > thresh)]
-```
-
-* **Source Registration & Provenance**: Tracks dataset origin, metadata schemas, and versioning across raw ingestion streams.
-* **Double-Blind Annotation**: Enforces independent multi-annotator task assignments to mitigate bias and ensure labeling fidelity.
-* **Agreement Auditing**: Computes inter-annotator agreement metrics to flag ambiguous data points and measure label consensus.
-* **Expert Adjudication**: Routes contentious or low-agreement examples through a dedicated escalation pipeline for final resolution.
-* **Release-Gate Verification**: Implements automated schema validation and quality barriers before datasets pass to downstream model training.
-* **Core Concepts**: `Data Governance` &middot; `Human-in-the-Loop (HITL)` &middot; `Provenance Tracking` &middot; `Inter-Annotator Agreement` &middot; `Quality Gates`
 
 ---
 
@@ -176,4 +158,3 @@ I regularly practice algorithmic problem solving and complexity analysis to buil
     <img src="https://img.shields.io/badge/GitHub-satyam--v3-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
