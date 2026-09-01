@@ -144,9 +144,9 @@ I regularly practice algorithmic problem solving and complexity analysis to buil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=satyam-v3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Satyam's GitHub Stats" height="150" />
+<img src="https://github-stats-extended.vercel.app/api?username=satyam-v3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Satyam's GitHub Stats" height="150" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-v3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satyam-v3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 
 <br/><br/>
 
@@ -161,14 +161,19 @@ I regularly practice algorithmic problem solving and complexity analysis to buil
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyam-k-r/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:satyamjsr69@gmail.com">
+    <img src="https://img.shields.io/badge/Email-satyamjsr69%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/satyam-v3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-satyam--v3-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-| Channel | Link |
-| :--- | :--- |
-| 💼 **LinkedIn** | [linkedin.com/in/satyam-k-r](https://www.linkedin.com/in/satyam-k-r/) |
-| ✉️ **Email** | [satyamjsr69@gmail.com](mailto:satyamjsr69@gmail.com) |
-| 🐙 **GitHub** | [@satyam-v3](https://github.com/satyam-v3) |
-
-</div>
